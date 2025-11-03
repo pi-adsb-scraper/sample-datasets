@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"782233","type":"adsb_icao","flight":"CSN3700 ","r":"B-32LM","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":26200,"alt_geom":27200,"gs":418.4,"track":200.86,"baro_rate":1920,"category":"A3","lat":31.028230,"lon":117.663629,"nic":8,"rc":186,"seen_pos":33.501,"version":2,"nac_v":2,"sil_type":"perhour","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":805,"seen":33.5,"rssi":-29.1}
+]
+,"msg": "No error"
+,"now": 1762079217001
+,"total": 1
+,"ctime": 1762079217001
+,"ptime": 0
+}

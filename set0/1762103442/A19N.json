@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"3c78af","type":"adsb_icao","flight":"KAY57   ","r":"D-ANEO","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":36000,"gs":396.0,"track":269.20,"baro_rate":29,"squawk":"0546","lat":29.087606,"lon":36.486996,"nic":8,"rc":185,"seen_pos":15.568,"version":2,"nic_baro":1,"mlat":[],"tisb":[],"messages":227,"seen":15.6,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762103448003
+,"total": 1
+,"ctime": 1762103448003
+,"ptime": 0
+}

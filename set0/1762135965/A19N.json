@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"7819da","type":"adsb_icao","flight":"TBA9917 ","r":"B-320G","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":30350,"gs":437.0,"track":154.30,"baro_rate":29,"squawk":"1505","lat":29.902542,"lon":104.541885,"nic":0,"rc":0,"seen_pos":11.036,"nic_baro":1,"mlat":[],"tisb":[],"messages":53,"seen":11.0,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762135971002
+,"total": 1
+,"ctime": 1762135971002
+,"ptime": 0
+}

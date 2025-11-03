@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"782233","type":"adsb_icao","flight":"CSN3268 ","r":"B-32LM","t":"A19N","desc":"AIRBUS A-319neo","gs":432.3,"track":202.29,"baro_rate":640,"squawk":"7433","emergency":"none","category":"A3","lastPosition":{"lat":32.587555,"lon":118.519135,"nic":8,"rc":186,"seen_pos":98.812},"version":0,"nac_v":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":33,"seen":42.2,"rssi":-33.2}
+]
+,"msg": "No error"
+,"now": 1762126245001
+,"total": 1
+,"ctime": 1762126245001
+,"ptime": 0
+}

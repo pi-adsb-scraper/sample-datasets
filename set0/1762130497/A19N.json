@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"782186","type":"adsb_icao","flight":"CSN3257 ","r":"B-32JJ","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":32100,"alt_geom":33400,"gs":450.4,"ias":275,"tas":452,"mach":0.760,"track":357.71,"track_rate":0.03,"roll":0.00,"mag_heading":348.93,"true_heading":343.07,"baro_rate":0,"geom_rate":0,"squawk":"3131","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":32096,"lat":31.969237,"lon":117.291496,"nic":8,"rc":186,"seen_pos":20.160,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1821,"seen":2.0,"rssi":-24.7}
+]
+,"msg": "No error"
+,"now": 1762130502001
+,"total": 1
+,"ctime": 1762130502001
+,"ptime": 0
+}

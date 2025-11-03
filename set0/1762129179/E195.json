@@ -1,0 +1,13 @@
+{"ac":[
+{"hex":"e49050","type":"adsb_icao","flight":"AZU6042 ","r":"PR-AUE","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":28000,"alt_geom":29500,"gs":371.7,"track":222.06,"baro_rate":64,"squawk":"3270","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":28000,"nav_modes":["autopilot","vnav","tcas"],"lat":-24.513428,"lon":-47.800649,"nic":8,"rc":186,"seen_pos":2.086,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":4835,"seen":0.5,"rssi":-28.5},
+{"hex":"e48dae","type":"adsb_icao","r":"PR-AXN","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":17675,"alt_geom":18625,"gs":321.9,"track":351.06,"baro_rate":1024,"lat":-22.504888,"lon":-42.892507,"nic":8,"rc":186,"seen_pos":0.658,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":37,"seen":0.0,"rssi":-26.3},
+{"hex":"7802d9","type":"adsb_icao","flight":"GCR7803 ","r":"B-3247","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":17700,"alt_geom":18025,"gs":338.3,"ias":281,"tas":362,"mach":0.584,"wd":258,"ws":24,"oat":-20,"tat":-3,"track":245.56,"track_rate":0.00,"roll":-0.18,"mag_heading":253.12,"true_heading":246.37,"baro_rate":-64,"geom_rate":-32,"squawk":"2355","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":17696,"nav_altitude_fms":17696,"nav_modes":["autopilot","althold","tcas"],"lat":38.698471,"lon":114.807845,"nic":8,"rc":186,"seen_pos":0.191,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":3902,"seen":0.0,"rssi":-4.1},
+{"hex":"e48994","type":"mode_s","r":"PR-AYW","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":12325,"rr_lat":-22.4,"rr_lon":-47.2,"mlat":[],"tisb":[],"messages":490,"seen":8.1,"rssi":-28.6},
+{"hex":"e48a55","type":"mode_s","r":"PR-AYZ","t":"E195","desc":"EMBRAER ERJ-190-200","rr_lat":-29.3,"rr_lon":-52.5,"mlat":[],"tisb":[],"messages":168,"seen":38.2,"rssi":-28.7}
+]
+,"msg": "No error"
+,"now": 1762129245002
+,"total": 5
+,"ctime": 1762129245002
+,"ptime": 0
+}

@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"424747","type":"adsb_icao","flight":"VPCVJ   ","r":"VP-CVJ","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":13425,"alt_geom":14200,"gs":283.7,"track":208.64,"baro_rate":-1152,"squawk":"3767","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":8992,"nav_heading":0.00,"lat":-22.885127,"lon":-46.335093,"nic":8,"rc":186,"seen_pos":0.057,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":8191,"seen":0.1,"rssi":-13.1},
+{"hex":"782213","type":"adsb_icao","r":"B-32LD","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":36100,"gs":343.0,"track":271.10,"baro_rate":30,"squawk":"2274","lat":30.800949,"lon":103.408813,"nic":0,"rc":0,"seen_pos":41.312,"mlat":[],"tisb":[],"messages":115,"seen":41.3,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762040729001
+,"total": 2
+,"ctime": 1762040729001
+,"ptime": 0
+}

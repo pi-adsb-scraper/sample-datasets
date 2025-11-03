@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781db9","type":"mode_s","r":"B-329Y","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":19700,"alt_geom":20925,"gs":386.5,"ias":280,"tas":386,"mach":0.608,"oat":-8,"tat":12,"track":162.22,"track_rate":0.00,"roll":0.18,"mag_heading":168.93,"true_heading":165.01,"baro_rate":0,"geom_rate":0,"nav_qnh":1012.8,"nav_altitude_mcp":19712,"rr_lat":22.6,"rr_lon":114.1,"version":0,"nic_baro":1,"nac_p":8,"nac_v":1,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":20,"seen":1.4,"rssi":-20.7}
+]
+,"msg": "No error"
+,"now": 1762130902001
+,"total": 1
+,"ctime": 1762130902001
+,"ptime": 0
+}

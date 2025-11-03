@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"3c78af","type":"adsb_icao","flight":"KAY57   ","r":"D-ANEO","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":12950,"alt_geom":13300,"gs":401.7,"ias":298,"tas":362,"mach":0.568,"wd":211,"ws":39,"oat":-6,"tat":12,"track":43.79,"track_rate":0.03,"roll":0.35,"mag_heading":39.90,"true_heading":45.11,"baro_rate":-2432,"geom_rate":-2400,"squawk":"2056","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":6016,"nav_heading":0.00,"lat":47.450789,"lon":16.514423,"nic":8,"rc":186,"seen_pos":0.179,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":112271,"seen":0.0,"rssi":-11.6}
+]
+,"msg": "No error"
+,"now": 1762115785001
+,"total": 1
+,"ctime": 1762115785001
+,"ptime": 0
+}

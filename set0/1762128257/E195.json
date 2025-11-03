@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"e49050","type":"adsb_icao","flight":"AZU6042 ","r":"PR-AUE","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":5150,"alt_geom":5350,"gs":217.4,"track":282.76,"baro_rate":1280,"squawk":"3270","emergency":"none","category":"A3","nav_qnh":1015.2,"nav_altitude_mcp":7520,"nav_modes":["autopilot","vnav","tcas"],"lat":-23.582016,"lon":-46.724752,"nic":8,"rc":186,"seen_pos":0.284,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":919,"seen":0.1,"rssi":-14.5}
+]
+,"msg": "No error"
+,"now": 1762128325001
+,"total": 1
+,"ctime": 1762128325001
+,"ptime": 1
+}

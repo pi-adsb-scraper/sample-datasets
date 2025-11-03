@@ -1,0 +1,12 @@
+{"ac":[
+{"hex":"e48e88","type":"adsb_icao","flight":"AZU5025 ","r":"PR-AXT","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":37000,"alt_geom":39175,"gs":413.1,"track":197.03,"baro_rate":-128,"category":"A3","lat":-21.287521,"lon":-46.832569,"nic":8,"rc":186,"seen_pos":0.249,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":721,"seen":0.2,"rssi":-25.4},
+{"hex":"495038","type":"adsb_icao","flight":"TAP404W ","r":"CS-TAX","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":29900,"alt_geom":31050,"gs":481.2,"ias":275,"tas":436,"mach":0.728,"wd":233,"ws":46,"oat":-37,"tat":-12,"track":63.86,"track_rate":-0.84,"roll":-20.74,"mag_heading":62.58,"true_heading":64.98,"baro_rate":-512,"geom_rate":-544,"squawk":"1173","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":15008,"nav_altitude_fms":15008,"nav_modes":["autopilot","tcas"],"lat":42.053741,"lon":4.156140,"nic":8,"rc":186,"seen_pos":0.000,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":67954,"seen":0.0,"rssi":-20.4},
+{"hex":"e48b80","type":"mode_s","r":"PR-AXE","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":23000,"rr_lat":-23.3,"rr_lon":-43.3,"mlat":[],"tisb":[],"messages":130,"seen":31.0,"rssi":-29.7},
+{"hex":"5100fc","type":"adsb_icao","flight":"BRU737  ","r":"EW-514PO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":-275,"alt_geom":2850,"tas":52,"true_heading":131.13,"baro_rate":0,"squawk":"6242","emergency":"none","category":"A3","nav_qnh":1025.6,"nav_altitude_mcp":2016,"nav_modes":["approach"],"rr_lat":42.5,"rr_lon":39.3,"lastPosition":{"lat":42.261429,"lon":40.739614,"nic":0,"rc":0,"seen_pos":90.273},"version":2,"nic_baro":1,"nac_p":0,"nac_v":0,"sil":0,"sil_type":"persample","gva":0,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":659,"seen":3.6,"rssi":-3.3}
+]
+,"msg": "No error"
+,"now": 1762041035001
+,"total": 4
+,"ctime": 1762041035001
+,"ptime": 0
+}

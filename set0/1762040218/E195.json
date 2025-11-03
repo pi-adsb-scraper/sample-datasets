@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"495038","type":"adsb_icao","flight":"TAP404W ","r":"CS-TAX","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":34000,"alt_geom":35200,"gs":503.4,"ias":263,"tas":442,"mach":0.760,"wd":235,"ws":68,"oat":-50,"tat":-25,"track":78.89,"track_rate":0.03,"roll":0.00,"mag_heading":80.51,"true_heading":82.46,"baro_rate":0,"geom_rate":0,"squawk":"1173","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":34016,"nav_altitude_fms":34000,"nav_modes":["autopilot","vnav","tcas"],"lat":41.769787,"lon":2.148785,"nic":8,"rc":186,"seen_pos":0.128,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":52307,"seen":0.1,"rssi":-17.7},
+{"hex":"5100fc","type":"mode_s","flight":"BRU737  ","r":"EW-514PO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":9700,"gs":284.0,"ias":254,"tas":292,"mach":0.456,"oat":-3,"tat":8,"track":243.98,"track_rate":0.00,"roll":-0.88,"mag_heading":246.80,"true_heading":242.88,"baro_rate":-1408,"geom_rate":-1408,"nav_qnh":1013.6,"nav_altitude_mcp":9024,"nav_modes":["autopilot","vnav","tcas"],"rr_lat":41.5,"rr_lon":39.3,"version":0,"nic_baro":0,"nac_p":0,"nac_v":0,"sil":0,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":13,"seen":18.0,"rssi":-17.9}
+]
+,"msg": "No error"
+,"now": 1762040374001
+,"total": 2
+,"ctime": 1762040374001
+,"ptime": 0
+}

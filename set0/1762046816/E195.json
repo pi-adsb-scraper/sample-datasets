@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"5100fc","type":"mode_s","r":"EW-514PO","t":"E195","desc":"EMBRAER ERJ-190-200","gs":332.0,"tas":318,"track":67.50,"track_rate":0.72,"roll":12.30,"true_heading":63.98,"baro_rate":1792,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":31008,"nav_altitude_fms":31008,"nav_modes":["autopilot","vnav","tcas"],"rr_lat":42.5,"rr_lon":39.3,"lastPosition":{"lat":41.676077,"lon":41.566325,"nic":8,"rc":186,"seen_pos":373.200},"gpsOkBefore":1762046591.8,"gpsOkLat":41.676077,"gpsOkLon":41.566325,"version":0,"nic_baro":0,"nac_p":0,"nac_v":0,"sil":0,"sil_type":"persample","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":334,"seen":6.5,"rssi":-15.5},
+{"hex":"e48994","type":"mode_s","r":"PR-AYW","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":28675,"mlat":[],"tisb":[],"messages":480,"seen":7.5,"rssi":-27.0}
+]
+,"msg": "No error"
+,"now": 1762046965001
+,"total": 2
+,"ctime": 1762046965001
+,"ptime": 0
+}

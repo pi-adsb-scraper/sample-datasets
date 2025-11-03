@@ -1,0 +1,13 @@
+{"ac":[
+{"hex":"e48e05","type":"adsb_icao","flight":"AZU2719 ","r":"PR-AXP","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":25300,"alt_geom":26675,"gs":472.9,"track":69.19,"baro_rate":-1216,"squawk":"3732","category":"A3","lat":-23.373692,"lon":-44.683990,"nic":8,"rc":186,"seen_pos":1.679,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5027,"seen":0.1,"rssi":-27.9},
+{"hex":"48ada2","type":"adsb_icao","flight":"LOT517  ","r":"SP-LNC","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":11350,"alt_geom":11675,"gs":310.1,"ias":280,"tas":334,"mach":0.520,"wd":235,"ws":40,"oat":-1,"tat":13,"track":178.71,"track_rate":0.28,"roll":5.10,"mag_heading":178.07,"true_heading":184.39,"baro_rate":-1728,"geom_rate":-1696,"squawk":"1000","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":3520,"nav_altitude_fms":6000,"nav_modes":["autopilot","tcas"],"lat":48.947816,"lon":21.143333,"nic":8,"rc":186,"seen_pos":0.000,"version":2,"nic_baro":1,"nac_p":11,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":98145,"seen":0.0,"rssi":-15.8},
+{"hex":"e48bf7","type":"mode_s","r":"PR-AXG","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":9850,"rr_lat":-22.8,"rr_lon":-45.6,"mlat":[],"tisb":[],"messages":1237,"seen":2.5,"rssi":-17.0},
+{"hex":"e48a55","type":"mode_s","r":"PR-AYZ","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":15850,"rr_lat":-29.3,"rr_lon":-52.5,"mlat":[],"tisb":[],"messages":170,"seen":4.2,"rssi":-26.3},
+{"hex":"4aca74","type":"adsb_icao","flight":"SAS1878 ","r":"SE-RST","t":"E195","desc":"EMBRAER ERJ-190-200","gs":121.0,"track":178.58,"baro_rate":-576,"category":"A3","rr_lat":58.4,"rr_lon":5.0,"lastPosition":{"lat":58.912949,"lon":5.636627,"nic":8,"rc":186,"seen_pos":64.824},"version":2,"nac_v":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":84134,"seen":58.8,"rssi":-30.4}
+]
+,"msg": "No error"
+,"now": 1762124679001
+,"total": 5
+,"ctime": 1762124679001
+,"ptime": 1
+}

@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781d14","type":"adsb_icao","flight":"CSN6067 ","r":"B-328C","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":36000,"alt_geom":38275,"gs":424.9,"ias":251,"tas":448,"mach":0.760,"track":282.37,"track_rate":0.00,"roll":0.00,"mag_heading":283.01,"true_heading":282.53,"baro_rate":0,"geom_rate":0,"squawk":"3122","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":36000,"lat":23.803345,"lon":91.674347,"nic":8,"rc":186,"seen_pos":18.612,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":268,"seen":8.5,"rssi":-35.1}
+]
+,"msg": "No error"
+,"now": 1762055480001
+,"total": 1
+,"ctime": 1762055480001
+,"ptime": 0
+}

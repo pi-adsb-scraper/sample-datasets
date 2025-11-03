@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"5100fc","type":"mode_s","flight":"BRU738  ","r":"EW-514PO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":21400,"gs":380.0,"ias":254,"tas":356,"mach":0.568,"oat":-20,"tat":-4,"track":79.45,"track_rate":0.00,"roll":-0.18,"mag_heading":69.79,"true_heading":75.23,"baro_rate":1280,"geom_rate":1120,"squawk":"6772","category":"A3","nav_qnh":1013.2,"nav_altitude_mcp":33008,"nav_altitude_fms":33008,"nav_modes":["vnav"],"rr_lat":42.5,"rr_lon":39.3,"lastPosition":{"lat":41.676077,"lon":41.566325,"nic":8,"rc":186,"seen_pos":702.200},"gpsOkBefore":1762046591.8,"gpsOkLat":41.676077,"gpsOkLon":41.566325,"version":0,"nic_baro":1,"nac_p":0,"nac_v":0,"sil":0,"sil_type":"persample","gva":0,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":457,"seen":35.6,"rssi":-18.1},
+{"hex":"e48994","type":"mode_s","r":"PR-AYW","t":"E195","desc":"EMBRAER ERJ-190-200","rr_lat":-24.3,"rr_lon":-47.4,"mlat":[],"tisb":[],"messages":508,"seen":3.7,"rssi":-29.6}
+]
+,"msg": "No error"
+,"now": 1762047294001
+,"total": 2
+,"ctime": 1762047294001
+,"ptime": 0
+}

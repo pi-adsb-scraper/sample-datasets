@@ -1,0 +1,13 @@
+{"ac":[
+{"hex":"e48e05","type":"adsb_icao","flight":"AZU2719 ","r":"PR-AXP","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":22100,"alt_geom":23300,"gs":453.9,"track":69.09,"baro_rate":-2176,"category":"A3","lat":-23.302980,"lon":-44.483337,"nic":8,"rc":186,"seen_pos":57.718,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5189,"seen":1.4,"rssi":-30.7},
+{"hex":"e48dae","type":"adsb_icao","flight":"AZU2627 ","r":"PR-AXN","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":26325,"alt_geom":27825,"gs":392.0,"track":180.58,"baro_rate":-1920,"squawk":"3673","category":"A3","lat":-21.622351,"lon":-43.931478,"nic":8,"rc":186,"seen_pos":0.534,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":79,"seen":0.5,"rssi":-26.3},
+{"hex":"48ada2","type":"adsb_icao","flight":"LOT517  ","r":"SP-LNC","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":8050,"alt_geom":8325,"gs":258.6,"ias":251,"tas":282,"mach":0.436,"wd":241,"ws":34,"oat":2,"tat":13,"track":192.96,"track_rate":0.03,"roll":-0.35,"mag_heading":191.78,"true_heading":198.06,"baro_rate":-1344,"geom_rate":-1344,"squawk":"1000","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":3520,"nav_altitude_fms":6000,"nav_modes":["autopilot","tcas"],"lat":48.756317,"lon":21.118681,"nic":8,"rc":186,"seen_pos":0.072,"version":2,"nic_baro":1,"nac_p":11,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":99818,"seen":0.1,"rssi":-15.3},
+{"hex":"e48a55","type":"mode_s","r":"PR-AYZ","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":11550,"rr_lat":-29.3,"rr_lon":-52.5,"mlat":[],"tisb":[],"messages":281,"seen":4.1,"rssi":-25.5},
+{"hex":"e48bf7","type":"mode_s","r":"PR-AXG","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":8425,"rr_lat":-22.4,"rr_lon":-47.2,"mlat":[],"tisb":[],"messages":1412,"seen":1.1,"rssi":-18.3}
+]
+,"msg": "No error"
+,"now": 1762124827001
+,"total": 5
+,"ctime": 1762124827001
+,"ptime": 0
+}

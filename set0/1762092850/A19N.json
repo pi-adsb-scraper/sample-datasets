@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781db9","type":"adsb_icao","flight":"CSN3698 ","r":"B-329Y","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":29100,"alt_geom":30425,"gs":413.5,"ias":300,"tas":468,"mach":0.776,"wd":270,"ws":88,"oat":-35,"tat":-7,"track":213.46,"track_rate":0.00,"roll":0.18,"mag_heading":227.64,"true_heading":222.27,"baro_rate":0,"geom_rate":32,"squawk":"7746","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":29088,"lat":30.283035,"lon":116.723974,"nic":8,"rc":186,"seen_pos":0.388,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":3223,"seen":0.4,"rssi":-31.9}
+]
+,"msg": "No error"
+,"now": 1762092856001
+,"total": 1
+,"ctime": 1762092856001
+,"ptime": 0
+}

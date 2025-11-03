@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"e48daf","type":"adsb_icao","flight":"AZU4910 ","r":"PR-AXO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":17400,"alt_geom":18250,"gs":328.0,"track":221.42,"baro_rate":-1664,"category":"A3","lat":-26.316492,"lon":-48.303610,"nic":8,"rc":185,"seen_pos":0.013,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5344,"seen":0.0,"rssi":-25.9},
+{"hex":"7802d9","type":"adsb_icao","flight":"GCR7804 ","r":"B-3247","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":18700,"alt_geom":19100,"gs":372.1,"ias":280,"tas":368,"mach":0.596,"wd":324,"ws":33,"oat":-22,"tat":-4,"track":64.19,"track_rate":0.00,"roll":0.00,"mag_heading":65.57,"true_heading":59.15,"baro_rate":0,"geom_rate":0,"squawk":"2377","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":18720,"nav_altitude_fms":18704,"nav_modes":["autopilot","althold","tcas"],"lat":38.176849,"lon":114.075136,"nic":8,"rc":186,"seen_pos":0.230,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":314,"seen":0.2,"rssi":-17.1}
+]
+,"msg": "No error"
+,"now": 1762049434002
+,"total": 2
+,"ctime": 1762049434002
+,"ptime": 1
+}

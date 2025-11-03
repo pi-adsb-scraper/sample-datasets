@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"5100fc","type":"mode_s","flight":"BRU738  ","r":"EW-514PO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":17725,"gs":358.0,"tas":334,"track":79.10,"track_rate":0.03,"roll":-0.35,"true_heading":74.88,"baro_rate":1344,"squawk":"6772","category":"A3","nav_qnh":1013.2,"nav_altitude_mcp":33008,"nav_altitude_fms":33008,"nav_modes":["vnav"],"rr_lat":40.3,"rr_lon":40.5,"lastPosition":{"lat":41.676077,"lon":41.566325,"nic":8,"rc":186,"seen_pos":537.204},"gpsOkBefore":1762046591.8,"gpsOkLat":41.676077,"gpsOkLon":41.566325,"version":0,"nic_baro":0,"nac_p":0,"nac_v":0,"sil":0,"sil_type":"persample","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":369,"seen":32.2,"rssi":-15.6},
+{"hex":"e48994","type":"mode_s","r":"PR-AYW","t":"E195","desc":"EMBRAER ERJ-190-200","mlat":[],"tisb":[],"messages":491,"seen":8.4,"rssi":-29.1}
+]
+,"msg": "No error"
+,"now": 1762047129001
+,"total": 2
+,"ctime": 1762047129001
+,"ptime": 0
+}

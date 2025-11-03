@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"3c78af","type":"adsb_icao","flight":"KAY57   ","r":"D-ANEO","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":36000,"gs":400.0,"track":299.00,"baro_rate":27,"squawk":"0546","category":"A3","lat":27.701607,"lon":48.023354,"nic":0,"rc":0,"seen_pos":8.284,"version":2,"nic_baro":1,"mlat":[],"tisb":[],"messages":9573,"seen":8.3,"rssi":-49.5},
+{"hex":"782233","type":"mode_s","r":"B-32LM","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":26575,"alt_geom":27800,"gs":434.4,"tas":442,"track":2.51,"track_rate":0.00,"roll":-0.18,"baro_rate":0,"rr_lat":31.2,"rr_lon":117.7,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":12,"seen":0.1,"rssi":-33.2}
+]
+,"msg": "No error"
+,"now": 1762097723001
+,"total": 2
+,"ctime": 1762097723001
+,"ptime": 1
+}

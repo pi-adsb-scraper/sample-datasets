@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781203","type":"adsb_icao","flight":"GCR7993 ","r":"B-3267","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":6575,"alt_geom":6675,"gs":296.3,"ias":248,"tas":270,"mach":0.420,"wd":313,"ws":40,"oat":-1,"tat":9,"track":87.29,"track_rate":0.03,"roll":-0.35,"mag_heading":90.00,"true_heading":81.22,"baro_rate":-1344,"geom_rate":-1280,"squawk":"0044","emergency":"none","category":"A3","nav_qnh":1020.0,"nav_altitude_mcp":1600,"nav_altitude_fms":2608,"nav_modes":["autopilot","tcas"],"lat":37.192566,"lon":126.136254,"nic":8,"rc":186,"seen_pos":0.190,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":6553,"seen":0.2,"rssi":-6.1}
+]
+,"msg": "No error"
+,"now": 1762045149001
+,"total": 1
+,"ctime": 1762045149001
+,"ptime": 0
+}

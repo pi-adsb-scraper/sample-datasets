@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781db9","type":"adsb_icao","flight":"CSN3415 ","r":"B-329Y","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":25025,"alt_geom":26025,"gs":421.3,"track":220.57,"baro_rate":1984,"category":"A3","rr_lat":22.6,"rr_lon":114.6,"lastPosition":{"lat":22.735794,"lon":112.806369,"nic":8,"rc":186,"seen_pos":61.902},"version":2,"nac_v":1,"sil_type":"perhour","mlat":[],"tisb":[],"messages":83,"seen":43.7,"rssi":-28.5}
+]
+,"msg": "No error"
+,"now": 1762053670001
+,"total": 1
+,"ctime": 1762053670001
+,"ptime": 0
+}

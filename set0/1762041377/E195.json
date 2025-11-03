@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"e48e88","type":"adsb_icao","flight":"AZU5025 ","r":"PR-AXT","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":28750,"alt_geom":30450,"gs":424.9,"track":174.60,"baro_rate":-2048,"squawk":"4623","category":"A3","lat":-22.262956,"lon":-46.673838,"nic":8,"rc":186,"seen_pos":0.460,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1913,"seen":0.0,"rssi":-26.5},
+{"hex":"495038","type":"adsb_icao","flight":"TAP404W ","r":"CS-TAX","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":17900,"alt_geom":18675,"gs":361.9,"ias":269,"tas":356,"mach":0.564,"wd":250,"ws":29,"oat":-11,"tat":6,"track":354.13,"track_rate":0.00,"roll":-0.18,"mag_heading":346.99,"true_heading":349.59,"baro_rate":-2496,"geom_rate":-2496,"squawk":"1173","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":8000,"nav_altitude_fms":8000,"nav_modes":["autopilot","tcas"],"lat":42.846451,"lon":4.924047,"nic":8,"rc":186,"seen_pos":0.147,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":78131,"seen":0.0,"rssi":-18.8}
+]
+,"msg": "No error"
+,"now": 1762041530001
+,"total": 2
+,"ctime": 1762041530001
+,"ptime": 0
+}

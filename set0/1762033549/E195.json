@@ -1,0 +1,12 @@
+{"ac":[
+{"hex":"e48daf","type":"adsb_icao","flight":"AZU2635 ","r":"PR-AXO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":20325,"alt_geom":21500,"gs":366.5,"track":176.87,"baro_rate":-1984,"squawk":"4526","category":"A3","lat":-22.167291,"lon":-46.672974,"nic":8,"rc":186,"seen_pos":4.734,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2065,"seen":0.1,"rssi":-29.3},
+{"hex":"e48dae","type":"adsb_icao","r":"PR-AXN","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":30000,"gs":377.0,"track":276.00,"baro_rate":-19,"squawk":"5001","lat":-19.811516,"lon":-41.565872,"nic":8,"rc":185,"seen_pos":2.304,"nic_baro":1,"mlat":[],"tisb":[],"messages":107,"seen":2.3,"rssi":-49.5},
+{"hex":"300558","type":"adsb_icao","flight":"DLA2FP  ","r":"I-ADJR","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":6400,"alt_geom":6825,"gs":269.5,"ias":249,"tas":276,"mach":0.420,"wd":267,"ws":30,"oat":1,"tat":11,"track":190.48,"track_rate":1.34,"roll":20.39,"mag_heading":193.01,"true_heading":196.97,"baro_rate":-1024,"geom_rate":-1088,"squawk":"1000","category":"A3","nav_qnh":1019.2,"nav_altitude_mcp":4000,"nav_altitude_fms":4000,"nav_modes":["autopilot","tcas"],"lat":44.827789,"lon":11.218872,"nic":8,"rc":186,"seen_pos":0.077,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":195026,"seen":0.1,"rssi":-9.5},
+{"hex":"e48994","type":"mode_s","r":"PR-AYW","t":"E195","desc":"EMBRAER ERJ-190-200","rr_lat":-20.5,"rr_lon":-47.8,"mlat":[],"tisb":[],"messages":735,"seen":50.3,"rssi":-27.0}
+]
+,"msg": "No error"
+,"now": 1762033699001
+,"total": 4
+,"ctime": 1762033699001
+,"ptime": 0
+}

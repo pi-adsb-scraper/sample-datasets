@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"424747","type":"adsb_icao","flight":"VPCVJ   ","r":"VP-CVJ","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":6225,"alt_geom":6525,"gs":195.0,"track":239.49,"baro_rate":-320,"squawk":"3767","emergency":"none","category":"A3","nav_qnh":1018.4,"nav_altitude_mcp":6016,"nav_heading":260.16,"lat":-23.360053,"lon":-46.685282,"nic":8,"rc":186,"seen_pos":0.229,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":11639,"seen":0.2,"rssi":-16.6},
+{"hex":"781e1e","type":"adsb_icao","flight":"CSN3996 ","r":"B-32AU","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":21700,"alt_geom":22400,"gs":386.4,"tas":416,"track":229.09,"track_rate":0.00,"roll":0.35,"baro_rate":0,"squawk":"7070","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":21696,"lat":31.938327,"lon":118.403077,"nic":8,"rc":186,"seen_pos":15.831,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":62,"seen":0.6,"rssi":-30.4}
+]
+,"msg": "No error"
+,"now": 1762041229001
+,"total": 2
+,"ctime": 1762041229001
+,"ptime": 0
+}

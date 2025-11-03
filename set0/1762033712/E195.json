@@ -1,0 +1,13 @@
+{"ac":[
+{"hex":"e48e49","type":"adsb_icao","flight":"AZU2861 ","r":"PR-AXR","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":"ground","gs":14.2,"track":216.56,"category":"A3","lat":-26.883173,"lon":-48.656731,"nic":8,"rc":186,"seen_pos":0.209,"version":1,"nac_p":9,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":15,"seen":0.2,"rssi":-14.8},
+{"hex":"e48daf","type":"adsb_icao","flight":"AZU2635 ","r":"PR-AXO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":15350,"alt_geom":16225,"gs":314.1,"track":226.81,"baro_rate":-1856,"squawk":"4526","category":"A3","lat":-22.433384,"lon":-46.680501,"nic":8,"rc":186,"seen_pos":0.108,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2620,"seen":0.1,"rssi":-22.8},
+{"hex":"e48dae","type":"adsb_icao","r":"PR-AXN","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":30000,"gs":375.0,"track":274.70,"baro_rate":-19,"squawk":"5001","lat":-19.783537,"lon":-41.861355,"nic":8,"rc":185,"seen_pos":6.143,"nic_baro":1,"mlat":[],"tisb":[],"messages":145,"seen":6.1,"rssi":-49.5},
+{"hex":"300558","type":"adsb_icao","flight":"DLA2FP  ","r":"I-ADJR","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":3825,"alt_geom":4200,"gs":234.8,"ias":230,"mach":0.372,"track":207.11,"mag_heading":208.30,"true_heading":212.21,"baro_rate":-768,"geom_rate":-736,"squawk":"1000","category":"A3","nav_qnh":1019.2,"nav_altitude_mcp":2496,"nav_altitude_fms":3504,"nav_modes":["autopilot","tcas"],"lat":44.721850,"lon":11.002607,"nic":8,"rc":186,"seen_pos":0.096,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":196794,"seen":0.1,"rssi":-10.6},
+{"hex":"44082a","type":"mode_s","r":"OE-LWN","t":"E195","desc":"EMBRAER ERJ-190-200","rr_lat":48.4,"rr_lon":17.7,"lastPosition":{"lat":48.114601,"lon":16.571554,"nic":8,"rc":186,"seen_pos":2700.887},"sil_type":"perhour","mlat":[],"tisb":[],"messages":2,"seen":39.3,"rssi":-18.6}
+]
+,"msg": "No error"
+,"now": 1762033864001
+,"total": 5
+,"ctime": 1762033864001
+,"ptime": 0
+}

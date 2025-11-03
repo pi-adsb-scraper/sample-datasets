@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"424747","type":"adsb_icao","flight":"VPCVJ   ","r":"VP-CVJ","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":28825,"alt_geom":30475,"gs":490.1,"track":44.09,"baro_rate":-2112,"squawk":"3767","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":20992,"nav_heading":0.00,"lat":-23.728188,"lon":-47.777054,"nic":8,"rc":186,"seen_pos":0.424,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1318,"seen":0.4,"rssi":-27.0}
+]
+,"msg": "No error"
+,"now": 1762039723001
+,"total": 1
+,"ctime": 1762039723001
+,"ptime": 1
+}

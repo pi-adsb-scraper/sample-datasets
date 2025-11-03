@@ -1,0 +1,11 @@
+{"ac":[
+{"hex":"e48daf","type":"adsb_icao","flight":"AZU4910 ","r":"PR-AXO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":8950,"alt_geom":9300,"gs":231.0,"track":235.76,"baro_rate":-1024,"squawk":"3413","category":"A3","lat":-26.748734,"lon":-48.635490,"nic":8,"rc":186,"seen_pos":0.202,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5601,"seen":0.2,"rssi":-18.8},
+{"hex":"510080","type":"mode_s","r":"EW-400PO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":33000,"tas":452,"mag_heading":332.23,"true_heading":328.30,"baro_rate":0,"version":0,"nac_p":0,"nac_v":0,"sil":0,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":6,"seen":2.1,"rssi":-23.8},
+{"hex":"e48a55","type":"mode_s","r":"PR-AYZ","t":"E195","desc":"EMBRAER ERJ-190-200","rr_lat":-26.7,"rr_lon":-49.1,"mlat":[],"tisb":[],"messages":27,"seen":2.5,"rssi":-25.9}
+]
+,"msg": "No error"
+,"now": 1762136339002
+,"total": 3
+,"ctime": 1762136339002
+,"ptime": 0
+}

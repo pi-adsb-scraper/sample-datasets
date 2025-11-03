@@ -1,0 +1,13 @@
+{"ac":[
+{"hex":"e49050","type":"adsb_icao","flight":"AZU6042 ","r":"PR-AUE","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":24175,"alt_geom":25425,"gs":346.9,"track":222.20,"baro_rate":-1536,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":10016,"nav_modes":["autopilot","vnav","tcas"],"lat":-24.870533,"lon":-48.154994,"nic":8,"rc":186,"seen_pos":8.269,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5281,"seen":7.6,"rssi":-29.6},
+{"hex":"e48dae","type":"adsb_icao","r":"PR-AXN","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":21475,"gs":381.0,"track":348.30,"baro_rate":-22,"squawk":"3265","category":"A3","lat":-22.013580,"lon":-42.975170,"nic":8,"rc":185,"seen_pos":5.466,"version":1,"nic_baro":1,"mlat":[],"tisb":[],"messages":100,"seen":5.5,"rssi":-49.5},
+{"hex":"7802d9","type":"adsb_icao","flight":"GCR7803 ","r":"B-3247","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":17700,"alt_geom":18050,"gs":337.3,"ias":280,"tas":362,"mach":0.584,"wd":266,"ws":26,"oat":-20,"tat":-3,"track":245.11,"track_rate":0.00,"roll":-0.18,"mag_heading":252.95,"true_heading":246.39,"baro_rate":-64,"geom_rate":0,"squawk":"2355","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":17696,"nav_altitude_fms":17696,"nav_modes":["autopilot","althold","tcas"],"lat":38.508636,"lon":114.281994,"nic":8,"rc":186,"seen_pos":3.875,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5417,"seen":0.2,"rssi":-7.6},
+{"hex":"e48994","type":"mode_s","r":"PR-AYW","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":6475,"rr_lat":-22.4,"rr_lon":-47.2,"mlat":[],"tisb":[],"messages":598,"seen":37.9,"rssi":-32.1},
+{"hex":"e48a55","type":"mode_s","r":"PR-AYZ","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":27275,"rr_lat":-29.3,"rr_lon":-52.5,"mlat":[],"tisb":[],"messages":253,"seen":5.4,"rssi":-28.6}
+]
+,"msg": "No error"
+,"now": 1762129539002
+,"total": 5
+,"ctime": 1762129539002
+,"ptime": 0
+}

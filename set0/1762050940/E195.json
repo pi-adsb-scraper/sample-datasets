@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"e48e49","type":"adsb_icao","flight":"AZU4220 ","r":"PR-AXR","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":18825,"alt_geom":19900,"gs":330.4,"track":353.05,"baro_rate":1536,"squawk":"4153","category":"A3","lat":-22.541016,"lon":-47.098139,"nic":8,"rc":186,"seen_pos":0.473,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2054,"seen":0.1,"rssi":-25.2}
+]
+,"msg": "No error"
+,"now": 1762051101001
+,"total": 1
+,"ctime": 1762051101001
+,"ptime": 0
+}

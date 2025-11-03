@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"782186","type":"adsb_icao","r":"B-32JJ","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":32100,"gs":444.0,"track":216.80,"baro_rate":21,"squawk":"4535","category":"A3","lat":21.988907,"lon":112.051308,"nic":0,"rc":0,"seen_pos":36.203,"version":2,"mlat":[],"tisb":[],"messages":182,"seen":36.2,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762045834001
+,"total": 1
+,"ctime": 1762045834001
+,"ptime": 0
+}

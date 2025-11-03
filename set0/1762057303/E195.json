@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"5100fc","type":"mode_s","flight":"BRU738  ","r":"EW-514PO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":34000,"gs":404.0,"ias":271,"tas":450,"mach":0.780,"oat":-54,"tat":-27,"track":262.27,"track_rate":0.00,"roll":-0.18,"mag_heading":265.43,"true_heading":274.22,"baro_rate":0,"geom_rate":-32,"squawk":"6772","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":34016,"nav_altitude_fms":34000,"nav_modes":["autopilot","vnav","tcas"],"rr_lat":56.5,"rr_lon":37.3,"version":2,"nic_baro":1,"nac_p":0,"nac_v":0,"sil":0,"sil_type":"persample","gva":0,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2502,"seen":2.0,"rssi":-20.1}
+]
+,"msg": "No error"
+,"now": 1762057452001
+,"total": 1
+,"ctime": 1762057452001
+,"ptime": 0
+}

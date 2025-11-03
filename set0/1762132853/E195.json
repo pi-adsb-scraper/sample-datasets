@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781203","type":"adsb_icao","flight":"GCR7993 ","r":"B-3267","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":"ground","gs":8.2,"true_heading":56.25,"squawk":"0046","emergency":"none","category":"A3","nav_qnh":1031.2,"nav_altitude_mcp":3008,"nav_modes":[],"lat":37.452175,"lon":126.445215,"nic":8,"rc":186,"seen_pos":2.395,"version":2,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":11018,"seen":2.4,"rssi":-12.1}
+]
+,"msg": "No error"
+,"now": 1762132920001
+,"total": 1
+,"ctime": 1762132920001
+,"ptime": 0
+}

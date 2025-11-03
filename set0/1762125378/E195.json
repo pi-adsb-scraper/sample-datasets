@@ -1,0 +1,11 @@
+{"ac":[
+{"hex":"e48e05","type":"adsb_icao","flight":"AZU2719 ","r":"PR-AXP","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":4000,"alt_geom":4150,"gs":208.5,"track":65.03,"baro_rate":-832,"squawk":"3732","category":"A3","lat":-22.889456,"lon":-43.370209,"nic":8,"rc":186,"seen_pos":0.137,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":7598,"seen":0.0,"rssi":-21.7},
+{"hex":"48ada2","type":"adsb_icao","flight":"LOT517  ","r":"SP-LNC","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":"ground","gs":7.2,"true_heading":210.94,"category":"A3","lat":48.671814,"lon":21.241484,"nic":8,"rc":186,"seen_pos":58.591,"version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":100643,"seen":58.6,"rssi":-23.5},
+{"hex":"e48a55","type":"mode_s","r":"PR-AYZ","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":550,"rr_lat":-28.6,"rr_lon":-51.5,"mlat":[],"tisb":[],"messages":632,"seen":2.3,"rssi":-2.7}
+]
+,"msg": "No error"
+,"now": 1762125461001
+,"total": 3
+,"ctime": 1762125461001
+,"ptime": 0
+}

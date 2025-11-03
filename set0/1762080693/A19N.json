@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781b77","type":"adsb_icao","flight":"TBA9980 ","r":"B-323J","t":"A19N","desc":"AIRBUS A-319neo","gs":269.7,"track":83.61,"baro_rate":-448,"squawk":"1571","category":"A3","rr_lat":31.4,"rr_lon":118.0,"lastPosition":{"lat":31.649982,"lon":117.996790,"nic":8,"rc":186,"seen_pos":65.909},"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"mlat":[],"tisb":[],"messages":1489,"seen":11.7,"rssi":-28.9}
+]
+,"msg": "No error"
+,"now": 1762080707001
+,"total": 1
+,"ctime": 1762080707001
+,"ptime": 0
+}

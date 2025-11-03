@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781b77","type":"adsb_icao","flight":"TBA6046 ","r":"B-323J","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":19700,"alt_geom":20500,"gs":380.6,"ias":302,"tas":408,"mach":0.652,"wd":285,"ws":30,"oat":-18,"tat":4,"track":242.96,"track_rate":0.03,"roll":0.53,"mag_heading":251.72,"true_heading":245.80,"baro_rate":64,"geom_rate":32,"squawk":"5104","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":19712,"lat":31.690110,"lon":117.762561,"nic":8,"rc":186,"seen_pos":0.847,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":461,"seen":0.8,"rssi":-27.6}
+]
+,"msg": "No error"
+,"now": 1762089291002
+,"total": 1
+,"ctime": 1762089291002
+,"ptime": 0
+}

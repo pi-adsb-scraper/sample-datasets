@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"3007ef","type":"adsb_icao","flight":"DLA66E  ","r":"I-JENB","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":"ground","gs":0.0,"true_heading":126.56,"category":"A3","nav_qnh":1015.2,"nav_altitude_mcp":12000,"nav_modes":[],"lat":46.996433,"lon":15.443087,"nic":8,"rc":186,"seen_pos":9.043,"version":2,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":102,"seen":8.8,"rssi":-29.6},
+{"hex":"440826","type":"adsb_icao","flight":"AUA199  ","r":"OE-LWJ","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":2000,"alt_geom":2225,"gs":152.6,"ias":154,"tas":158,"mach":0.240,"wd":253,"ws":7,"track":241.42,"track_rate":-3.00,"roll":-24.08,"mag_heading":258.75,"true_heading":264.04,"baro_rate":1664,"geom_rate":2720,"squawk":"1000","category":"A3","nav_qnh":1015.2,"nav_altitude_mcp":5024,"nav_modes":["vnav","tcas"],"lat":48.120862,"lon":16.517803,"nic":8,"rc":186,"seen_pos":0.200,"version":2,"nic_baro":1,"nac_p":11,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":692,"seen":0.2,"rssi":-6.7}
+]
+,"msg": "No error"
+,"now": 1762059670001
+,"total": 2
+,"ctime": 1762059670001
+,"ptime": 0
+}

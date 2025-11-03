@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781e37","type":"adsb_icao","flight":"TBA9862 ","r":"B-32C0","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":27350,"gs":428.0,"track":182.70,"baro_rate":29,"squawk":"2133","lat":29.716761,"lon":104.046341,"nic":0,"rc":0,"seen_pos":7.560,"mlat":[],"tisb":[],"messages":68,"seen":7.6,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762134447001
+,"total": 1
+,"ctime": 1762134447001
+,"ptime": 0
+}

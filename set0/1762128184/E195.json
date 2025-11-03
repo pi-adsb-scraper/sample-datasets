@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"e49050","type":"adsb_icao","flight":"AZU6042 ","r":"PR-AUE","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":3600,"alt_geom":3700,"gs":134.8,"track":327.72,"true_heading":326.25,"baro_rate":2112,"squawk":"3270","emergency":"none","category":"A3","nav_qnh":1015.2,"nav_altitude_mcp":7520,"nav_modes":["vnav","tcas"],"lat":-23.606966,"lon":-46.670233,"nic":8,"rc":186,"seen_pos":0.043,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":205,"seen":0.0,"rssi":-10.7},
+{"hex":"e48994","type":"mode_s","r":"PR-AYW","t":"E195","desc":"EMBRAER ERJ-190-200","rr_lat":-23.9,"rr_lon":-47.6,"mlat":[],"tisb":[],"messages":347,"seen":15.3,"rssi":-31.3}
+]
+,"msg": "No error"
+,"now": 1762128250001
+,"total": 2
+,"ctime": 1762128250001
+,"ptime": 0
+}

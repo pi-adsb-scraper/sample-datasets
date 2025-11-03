@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"e48daf","type":"adsb_icao","r":"PR-AXO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":26950,"calc_track":195,"category":"A3","lat":-25.818756,"lon":-47.969677,"nic":8,"rc":186,"seen_pos":7.192,"version":0,"nac_p":8,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5235,"seen":7.2,"rssi":-30.8}
+]
+,"msg": "No error"
+,"now": 1762135440001
+,"total": 1
+,"ctime": 1762135440001
+,"ptime": 0
+}

@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"78218b","type":"adsb_icao","flight":"CHB6371 ","r":"B-32JM","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":27550,"gs":391.0,"track":195.60,"baro_rate":23,"squawk":"1006","lat":23.156433,"lon":113.694458,"nic":0,"rc":0,"seen_pos":18.074,"nic_baro":1,"mlat":[],"tisb":[],"messages":24,"seen":18.1,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762226945002
+,"total": 1
+,"ctime": 1762226945002
+,"ptime": 0
+}

@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"e48daf","type":"adsb_icao","r":"PR-AXO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":32425,"gs":386.0,"track":229.80,"baro_rate":-26,"squawk":"3523","category":"A3","lat":-26.163849,"lon":-51.766281,"nic":8,"rc":185,"seen_pos":3.665,"version":1,"nic_baro":1,"mlat":[],"tisb":[],"messages":3104,"seen":3.7,"rssi":-49.5},
+{"hex":"e48994","type":"mode_s","r":"PR-AYW","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":30000,"rr_lat":-24.0,"rr_lon":-47.5,"mlat":[],"tisb":[],"messages":490,"seen":5.5,"rssi":-27.6}
+]
+,"msg": "No error"
+,"now": 1762222339002
+,"total": 2
+,"ctime": 1762222339002
+,"ptime": 0
+}

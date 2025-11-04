@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"e49050","type":"adsb_icao","flight":"AZU4752 ","r":"PR-AUE","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":19575,"alt_geom":20700,"gs":370.7,"track":350.84,"baro_rate":1920,"category":"A3","lat":-22.314056,"lon":-42.915394,"nic":8,"rc":186,"seen_pos":41.320,"version":2,"nac_v":2,"sil_type":"perhour","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":164,"seen":9.8,"rssi":-29.9}
+]
+,"msg": "No error"
+,"now": 1762214342001
+,"total": 1
+,"ctime": 1762214342001
+,"ptime": 0
+}

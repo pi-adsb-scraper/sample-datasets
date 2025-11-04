@@ -1,0 +1,11 @@
+{"ac":[
+{"hex":"e4910c","type":"adsb_icao","flight":"AZU2746 ","r":"PR-AUI","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":6325,"alt_geom":6525,"gs":334.5,"track":213.79,"baro_rate":-2688,"squawk":"3607","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":4000,"nav_modes":["autopilot","tcas"],"lat":-29.683090,"lon":-51.248210,"nic":8,"rc":186,"seen_pos":0.297,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":3164,"seen":0.0,"rssi":-25.7},
+{"hex":"e48e88","type":"adsb_icao","r":"PR-AXT","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":34775,"gs":383.0,"track":270.60,"baro_rate":-25,"squawk":"3606","lat":-25.359741,"lon":-50.623829,"nic":0,"rc":0,"seen_pos":11.977,"nic_baro":1,"mlat":[],"tisb":[],"messages":155,"seen":12.0,"rssi":-49.5},
+{"hex":"e48bf7","type":"mode_s","r":"PR-AXG","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":3825,"rr_lat":-23.2,"rr_lon":-47.1,"mlat":[],"tisb":[],"messages":38,"seen":3.8,"rssi":-27.3}
+]
+,"msg": "No error"
+,"now": 1762223036002
+,"total": 3
+,"ctime": 1762223036002
+,"ptime": 0
+}

@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"e49050","type":"adsb_icao","flight":"AZU4752 ","r":"PR-AUE","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":23300,"gs":360.0,"track":348.40,"baro_rate":-22,"squawk":"3437","category":"A3","lat":-22.124680,"lon":-42.954494,"nic":0,"rc":0,"seen_pos":3.588,"version":2,"nic_baro":1,"mlat":[],"tisb":[],"messages":170,"seen":3.6,"rssi":-49.5},
+{"hex":"e48994","type":"mode_s","r":"PR-AYW","t":"E195","desc":"EMBRAER ERJ-190-200","rr_lat":-25.9,"rr_lon":-48.3,"lastPosition":{"lat":-27.242333,"lon":-48.414517,"nic":0,"rc":0,"seen_pos":1000.713},"mlat":[],"tisb":[],"messages":367,"seen":52.2,"rssi":-28.1}
+]
+,"msg": "No error"
+,"now": 1762214417002
+,"total": 2
+,"ctime": 1762214417002
+,"ptime": 0
+}

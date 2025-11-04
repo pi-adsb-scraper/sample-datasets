@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"782202","type":"adsb_icao","flight":"CSN3463 ","r":"B-32KX","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":30400,"gs":369.0,"track":271.50,"baro_rate":30,"squawk":"2155","lat":30.577744,"lon":103.989769,"nic":0,"rc":0,"seen_pos":5.924,"mlat":[],"tisb":[],"messages":12,"seen":5.9,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762225080001
+,"total": 1
+,"ctime": 1762225080001
+,"ptime": 0
+}

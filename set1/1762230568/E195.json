@@ -1,0 +1,12 @@
+{"ac":[
+{"hex":"44082d","type":"adsb_icao","flight":"AUA720  ","r":"OE-LWQ","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":15725,"alt_geom":16250,"gs":308.6,"ias":251,"tas":318,"mach":0.504,"wd":359,"ws":38,"oat":-11,"tat":2,"track":279.89,"track_rate":0.00,"roll":-0.53,"mag_heading":281.25,"true_heading":286.70,"baro_rate":-1664,"geom_rate":-1664,"squawk":"1000","category":"A3","nav_qnh":1026.4,"nav_altitude_mcp":10016,"nav_altitude_fms":10000,"nav_modes":["autopilot","vnav","tcas"],"lat":47.732025,"lon":17.627151,"nic":8,"rc":186,"seen_pos":0.271,"version":2,"nic_baro":1,"nac_p":11,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":81495,"seen":0.0,"rssi":-19.2},
+{"hex":"300557","type":"adsb_icao","flight":"AUA653  ","r":"I-ADJQ","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":9300,"alt_geom":9725,"gs":270.0,"track":269.36,"baro_rate":2880,"squawk":"1000","category":"A3","nav_qnh":1024.0,"nav_altitude_mcp":13024,"nav_modes":["autopilot","vnav","tcas"],"lat":48.588959,"lon":20.925997,"nic":8,"rc":186,"seen_pos":4.943,"version":2,"nic_baro":1,"nac_p":11,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":474,"seen":4.4,"rssi":-25.4},
+{"hex":"00bfc0","type":"adsb_icao","flight":"LNK100B ","r":"ZS-YDB","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":7525,"alt_geom":8175,"gs":217.1,"ias":198,"tas":224,"mach":0.340,"wd":300,"ws":19,"track":7.94,"track_rate":0.03,"roll":0.00,"mag_heading":23.91,"true_heading":3.50,"baro_rate":1984,"geom_rate":2144,"squawk":"7325","emergency":"none","category":"A3","nav_qnh":1028.0,"nav_altitude_mcp":15008,"nav_altitude_fms":15008,"nav_modes":["autopilot","vnav","tcas"],"lat":-26.044255,"lon":28.264125,"nic":8,"rc":186,"seen_pos":0.389,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1047,"seen":0.3,"rssi":-7.9},
+{"hex":"780ef5","type":"mode_s","r":"B-3108","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":5725,"nav_qnh":1018.4,"nav_altitude_mcp":8896,"nav_modes":["autopilot","tcas"],"version":0,"nic_baro":1,"nac_p":8,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":3,"seen":4.7,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762230642002
+,"total": 4
+,"ctime": 1762230642002
+,"ptime": 0
+}

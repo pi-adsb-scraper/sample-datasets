@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"781e1e","type":"adsb_icao","r":"B-32AU","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":25600,"gs":390.0,"track":239.00,"baro_rate":23,"squawk":"7030","category":"A3","lat":23.662968,"lon":116.378746,"nic":0,"rc":0,"seen_pos":41.481,"version":2,"mlat":[],"tisb":[],"messages":461,"seen":41.5,"rssi":-49.5},
+{"hex":"781d13","type":"adsb_icao","flight":"CSN3708 ","r":"B-328A","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":29100,"alt_geom":30475,"gs":380.9,"tas":416,"track":190.90,"track_rate":0.62,"roll":13.01,"baro_rate":0,"squawk":"7076","category":"A3","lat":29.918751,"lon":117.301410,"nic":8,"rc":186,"seen_pos":34.323,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2658,"seen":34.5,"rssi":-32.3}
+]
+,"msg": "No error"
+,"now": 1762181559001
+,"total": 2
+,"ctime": 1762181559001
+,"ptime": 1
+}

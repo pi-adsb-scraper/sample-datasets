@@ -1,0 +1,13 @@
+{"ac":[
+{"hex":"e4910c","type":"adsb_icao","flight":"AZU2745 ","r":"PR-AUI","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":30950,"alt_geom":32100,"gs":484.9,"track":25.40,"baro_rate":-1536,"squawk":"3454","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":11008,"nav_modes":["autopilot","vnav","tcas"],"lat":-26.546041,"lon":-49.953038,"nic":8,"rc":186,"seen_pos":23.934,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":4241,"seen":17.9,"rssi":-27.3},
+{"hex":"e48e05","type":"adsb_icao","flight":"AZU4915 ","r":"PR-AXP","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":13200,"alt_geom":13850,"gs":338.0,"track":67.38,"baro_rate":-1664,"squawk":"3372","category":"A3","lat":-23.100815,"lon":-43.902216,"nic":8,"rc":186,"seen_pos":0.524,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5922,"seen":0.0,"rssi":-20.7},
+{"hex":"7810b1","type":"adsb_icao","flight":"GCR7739 ","r":"B-3243","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":22800,"alt_geom":23275,"gs":396.0,"ias":281,"tas":392,"mach":0.644,"wd":288,"ws":20,"oat":-29,"tat":-9,"track":187.11,"track_rate":0.00,"roll":-0.35,"mag_heading":196.88,"true_heading":189.93,"baro_rate":1792,"geom_rate":1824,"squawk":"3015","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":25600,"nav_altitude_fms":25600,"nav_modes":["autopilot","tcas"],"lat":38.152496,"lon":115.892496,"nic":8,"rc":186,"seen_pos":0.783,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1246,"seen":0.8,"rssi":-15.3},
+{"hex":"e48d42","type":"mode_s","r":"PR-AXI","t":"E195","desc":"EMBRAER ERJ-190-200","rr_lat":-22.4,"rr_lon":-45.6,"lastPosition":{"lat":-23.683712,"lon":-46.571350,"nic":0,"rc":0,"seen_pos":902.783},"mlat":[],"tisb":[],"messages":597,"seen":3.0,"rssi":-29.9},
+{"hex":"e48b80","type":"mode_s","r":"PR-AXE","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":3350,"rr_lat":-22.6,"rr_lon":-45.8,"lastPosition":{"lat":-23.608002,"lon":-46.672304,"nic":0,"rc":0,"seen_pos":3604.166},"mlat":[],"tisb":[],"messages":24,"seen":2.3,"rssi":-7.2}
+]
+,"msg": "No error"
+,"now": 1762216513001
+,"total": 5
+,"ctime": 1762216513001
+,"ptime": 1
+}

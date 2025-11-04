@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781202","type":"mode_s","flight":"GCR7416 ","r":"B-3265","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":13800,"alt_geom":14350,"gs":332.1,"tas":334,"track":335.83,"track_rate":-0.03,"roll":0.53,"baro_rate":1536,"squawk":"1060","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":13824,"nav_modes":["autopilot","althold","tcas"],"rr_lat":31.7,"rr_lon":117.9,"version":0,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":11,"seen":7.5,"rssi":-32.6}
+]
+,"msg": "No error"
+,"now": 1762225743002
+,"total": 1
+,"ctime": 1762225743002
+,"ptime": 0
+}

@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"781e1e","type":"adsb_icao","r":"B-32AU","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":25600,"gs":403.0,"track":249.60,"baro_rate":26,"squawk":"7030","lat":26.408615,"lon":119.716515,"nic":8,"rc":185,"seen_pos":5.748,"nic_baro":1,"mlat":[],"tisb":[],"messages":52,"seen":5.7,"rssi":-49.5},
+{"hex":"782213","type":"mode_s","flight":"CCA2656 ","r":"B-32LD","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":10800,"alt_geom":11425,"gs":352.9,"ias":306,"tas":364,"mach":0.560,"wd":215,"ws":18,"oat":5,"tat":23,"track":262.67,"track_rate":0.03,"roll":0.70,"mag_heading":264.02,"true_heading":260.57,"baro_rate":0,"geom_rate":0,"squawk":"4532","category":"A3","rr_lat":22.8,"rr_lon":114.7,"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":25,"seen":31.2,"rssi":-23.7}
+]
+,"msg": "No error"
+,"now": 1762179258001
+,"total": 2
+,"ctime": 1762179258001
+,"ptime": 0
+}

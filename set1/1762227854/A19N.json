@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"781d9b","type":"adsb_icao","r":"B-329H","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":26600,"gs":554.0,"track":83.30,"baro_rate":30,"squawk":"2376","lat":30.585297,"lon":104.144409,"nic":0,"rc":0,"seen_pos":33.179,"mlat":[],"tisb":[],"messages":4,"seen":33.2,"rssi":-49.5},
+{"hex":"78218b","type":"adsb_icao","flight":"CHB6371 ","r":"B-32JM","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":30100,"alt_geom":32100,"gs":392.5,"ias":254,"tas":414,"mach":0.680,"wd":285,"ws":31,"oat":-29,"tat":-6,"track":237.48,"track_rate":0.03,"roll":0.35,"mag_heading":243.63,"true_heading":240.68,"baro_rate":0,"geom_rate":0,"squawk":"1006","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":30112,"lat":21.918982,"lon":112.662404,"nic":8,"rc":186,"seen_pos":0.761,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1900,"seen":0.5,"rssi":-25.2}
+]
+,"msg": "No error"
+,"now": 1762227859007
+,"total": 2
+,"ctime": 1762227859007
+,"ptime": 0
+}

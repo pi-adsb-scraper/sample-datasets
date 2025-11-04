@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"7821b3","type":"adsb_icao","flight":"CSN3234 ","r":"B-32JY","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":29075,"alt_geom":30300,"category":"A3","lastPosition":{"lat":29.844727,"lon":116.853914,"nic":8,"rc":186,"seen_pos":77.488},"version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1211,"seen":50.7,"rssi":-31.4}
+]
+,"msg": "No error"
+,"now": 1762256293002
+,"total": 1
+,"ctime": 1762256293002
+,"ptime": 0
+}

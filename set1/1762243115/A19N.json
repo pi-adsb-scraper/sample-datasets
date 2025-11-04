@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781f4e","type":"mode_s","r":"B-32E7","t":"A19N","desc":"AIRBUS A-319neo","category":"A3","nav_qnh":1021.0,"nav_altitude_mcp":2000,"lastPosition":{"lat":38.373413,"lon":114.416588,"nic":8,"rc":186,"seen_pos":115.888},"version":2,"nic_baro":1,"nac_p":9,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":189,"seen":28.5,"rssi":-17.1}
+]
+,"msg": "No error"
+,"now": 1762243121001
+,"total": 1
+,"ctime": 1762243121001
+,"ptime": 0
+}

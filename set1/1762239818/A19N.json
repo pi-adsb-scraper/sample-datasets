@@ -1,0 +1,12 @@
+{"ac":[
+{"hex":"5003c2","type":"adsb_icao","flight":"RUN1    ","r":"T7-1177","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":"ground","gs":0.0,"squawk":"2000","emergency":"none","category":"A3","lat":53.623185,"lon":9.990369,"nic":0,"rc":186,"seen_pos":0.956,"version":2,"nac_p":8,"nac_v":2,"sil":3,"sil_type":"perhour","sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1655,"seen":1.0,"rssi":-19.1},
+{"hex":"781d9b","type":"adsb_icao","r":"B-329H","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":26600,"gs":490.0,"track":180.50,"baro_rate":28,"squawk":"4005","lat":28.969070,"lon":106.955284,"nic":0,"rc":0,"seen_pos":44.220,"mlat":[],"tisb":[],"messages":31,"seen":44.2,"rssi":-49.5},
+{"hex":"781e37","type":"adsb_icao","flight":"TBA6119 ","r":"B-32C0","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":19000,"alt_geom":20125,"gs":370.1,"ias":280,"tas":382,"mach":0.596,"wd":246,"ws":18,"oat":-3,"tat":17,"track":195.84,"track_rate":0.03,"roll":0.70,"mag_heading":201.09,"true_heading":197.93,"baro_rate":0,"geom_rate":0,"squawk":"4061","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":19008,"lat":22.300232,"lon":113.491067,"nic":8,"rc":186,"seen_pos":1.704,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":1,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1159,"seen":1.7,"rssi":-21.8},
+{"hex":"78218b","type":"adsb_icao","flight":"CHB6372 ","r":"B-32JM","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":29100,"alt_geom":30900,"gs":465.0,"ias":272,"tas":434,"mach":0.708,"wd":294,"ws":42,"oat":-26,"tat":-1,"track":73.12,"track_rate":0.00,"roll":0.53,"mag_heading":72.95,"true_heading":69.51,"baro_rate":0,"geom_rate":0,"squawk":"4271","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":29088,"lat":23.466568,"lon":113.898160,"nic":8,"rc":186,"seen_pos":25.079,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":154,"seen":25.2,"rssi":-25.0}
+]
+,"msg": "No error"
+,"now": 1762239824002
+,"total": 4
+,"ctime": 1762239824002
+,"ptime": 0
+}

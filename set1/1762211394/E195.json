@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"4aca72","type":"adsb_icao","flight":"SAS1878 ","r":"SE-RSR","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":1700,"alt_geom":1450,"gs":111.0,"ias":140,"tas":144,"mach":0.220,"wd":218,"ws":38,"track":179.48,"track_rate":-0.12,"roll":-0.53,"mag_heading":186.33,"true_heading":189.12,"baro_rate":-704,"geom_rate":-672,"squawk":"0251","emergency":"none","category":"A3","nav_qnh":998.4,"nav_altitude_mcp":3008,"nav_altitude_fms":3008,"nav_modes":["autopilot","approach","tcas"],"lat":58.957718,"lon":5.635345,"nic":8,"rc":186,"seen_pos":0.097,"version":2,"nic_baro":1,"nac_p":11,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":104025,"seen":0.1,"rssi":-3.0},
+{"hex":"e48d42","type":"mode_s","r":"PR-AXI","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":3000,"rr_lat":-23.3,"rr_lon":-47.2,"lastPosition":{"lat":-23.562850,"lon":-46.693411,"nic":0,"rc":0,"seen_pos":68.362},"mlat":[],"tisb":[],"messages":1937,"seen":2.0,"rssi":-18.6}
+]
+,"msg": "No error"
+,"now": 1762211480002
+,"total": 2
+,"ctime": 1762211480002
+,"ptime": 0
+}

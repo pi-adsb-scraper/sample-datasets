@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"782280","type":"adsb_icao","flight":"CHB6220 ","r":"B-32MF","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":16650,"alt_geom":17200,"tas":338,"track_rate":0.00,"roll":-0.18,"squawk":"1333","emergency":"none","category":"A3","rr_lat":31.7,"rr_lon":117.9,"lastPosition":{"lat":31.866403,"lon":117.175131,"nic":8,"rc":186,"seen_pos":64.963},"version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1651,"seen":42.2,"rssi":-22.2}
+]
+,"msg": "No error"
+,"now": 1762237353001
+,"total": 1
+,"ctime": 1762237353001
+,"ptime": 0
+}

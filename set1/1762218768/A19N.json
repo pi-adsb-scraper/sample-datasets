@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"782186","type":"adsb_icao","flight":"CSN6595 ","r":"B-32JJ","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":23600,"alt_geom":25100,"gs":437.0,"ias":301,"tas":434,"mach":0.692,"oat":-14,"tat":11,"track":189.50,"track_rate":0.03,"roll":0.18,"mag_heading":195.12,"true_heading":192.00,"baro_rate":22,"geom_rate":2016,"squawk":"3126","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":23616,"lat":22.536621,"lon":112.903198,"nic":0,"rc":0,"seen_pos":10.239,"version":2,"nic_baro":1,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":223,"seen":10.2,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762218773002
+,"total": 1
+,"ctime": 1762218773002
+,"ptime": 1
+}

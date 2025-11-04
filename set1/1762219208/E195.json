@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"e48daf","type":"adsb_icao","flight":"AZU4387 ","r":"PR-AXO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":4625,"alt_geom":4850,"gs":246.5,"track":276.29,"baro_rate":2752,"category":"A3","lat":-22.975845,"lon":-47.249850,"nic":8,"rc":186,"seen_pos":1.228,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":63,"seen":0.2,"rssi":-29.6}
+]
+,"msg": "No error"
+,"now": 1762219295001
+,"total": 1
+,"ctime": 1762219295001
+,"ptime": 0
+}

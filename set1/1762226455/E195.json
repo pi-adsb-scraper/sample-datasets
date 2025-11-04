@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"780f24","type":"mode_s","r":"B-3119","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":20700,"alt_geom":21375,"gs":394.3,"ias":269,"mach":0.592,"track":69.36,"mag_heading":72.60,"true_heading":68.68,"baro_rate":64,"geom_rate":32,"nav_qnh":1013.2,"nav_altitude_mcp":20704,"nav_altitude_fms":20704,"nav_modes":["althold"],"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5,"seen":5.7,"rssi":-26.2}
+]
+,"msg": "No error"
+,"now": 1762226522002
+,"total": 1
+,"ctime": 1762226522002
+,"ptime": 0
+}

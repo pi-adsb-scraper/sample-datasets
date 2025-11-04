@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"44082d","type":"adsb_icao","flight":"AUA720  ","r":"OE-LWQ","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":34300,"alt_geom":34800,"gs":404.8,"ias":250,"tas":422,"mach":0.732,"wd":353,"ws":47,"oat":-54,"tat":-31,"track":281.25,"track_rate":-0.03,"roll":-0.53,"mag_heading":281.60,"true_heading":287.32,"baro_rate":-1024,"geom_rate":-992,"squawk":"1000","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":20000,"nav_altitude_fms":20000,"nav_modes":["autopilot","vnav","tcas"],"lat":47.533280,"lon":19.204665,"nic":8,"rc":186,"seen_pos":0.395,"version":2,"nic_baro":1,"nac_p":11,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":47231,"seen":0.2,"rssi":-12.1},
+{"hex":"4aca78","type":"mode_s","r":"SE-RSX","t":"E195","desc":"EMBRAER ERJ-190-200","rr_lat":63.4,"rr_lon":14.2,"mlat":[],"tisb":[],"messages":4,"seen":48.1,"rssi":-17.2}
+]
+,"msg": "No error"
+,"now": 1762229991001
+,"total": 2
+,"ctime": 1762229991001
+,"ptime": 0
+}

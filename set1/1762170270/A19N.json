@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"78218b","type":"adsb_icao","flight":"CHB6517 ","r":"B-32JM","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":26600,"alt_geom":27150,"gs":467.6,"ias":296,"tas":436,"mach":0.728,"track":81.14,"track_rate":-0.59,"roll":-14.06,"mag_heading":86.66,"true_heading":80.35,"baro_rate":0,"geom_rate":32,"squawk":"6267","rr_lat":38.5,"rr_lon":115.6,"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"perhour","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":37,"seen":19.0,"rssi":-24.0}
+]
+,"msg": "No error"
+,"now": 1762170276001
+,"total": 1
+,"ctime": 1762170276001
+,"ptime": 0
+}

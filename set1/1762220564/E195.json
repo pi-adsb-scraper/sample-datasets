@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"e48daf","type":"adsb_icao","r":"PR-AXO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":35600,"gs":390.0,"track":228.10,"baro_rate":-24,"squawk":"3523","category":"A3","lat":-24.098831,"lon":-49.136555,"nic":0,"rc":0,"seen_pos":6.377,"version":1,"nic_baro":1,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2746,"seen":6.4,"rssi":-49.5},
+{"hex":"510080","type":"mode_s","flight":"BRU776  ","r":"EW-400PO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":36000,"ias":262,"tas":454,"mach":0.792,"oat":-57,"tat":-30,"mag_heading":245.57,"true_heading":255.59,"baro_rate":0,"geom_rate":0,"squawk":"0616","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_altitude_fms":36000,"nav_modes":["autopilot","vnav","tcas"],"rr_lat":56.6,"rr_lon":37.7,"version":2,"nic_baro":0,"nac_p":0,"nac_v":0,"sil":0,"sil_type":"perhour","gva":0,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1328,"seen":0.0,"rssi":-16.5}
+]
+,"msg": "No error"
+,"now": 1762220631002
+,"total": 2
+,"ctime": 1762220631002
+,"ptime": 0
+}

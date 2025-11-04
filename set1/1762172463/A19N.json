@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"78213e","type":"adsb_icao","flight":"CSN3712 ","r":"B-32HP","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":29100,"alt_geom":30500,"gs":385.4,"ias":280,"tas":442,"mach":0.728,"oat":-30,"tat":-5,"track":218.89,"track_rate":0.34,"roll":7.73,"mag_heading":233.26,"true_heading":227.90,"baro_rate":64,"geom_rate":96,"squawk":"2164","category":"A3","nav_qnh":1013.0,"nav_altitude_mcp":29104,"lat":29.913437,"lon":117.072898,"nic":8,"rc":186,"seen_pos":5.354,"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"perhour","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":3094,"seen":1.9,"rssi":-31.3}
+]
+,"msg": "No error"
+,"now": 1762172469002
+,"total": 1
+,"ctime": 1762172469002
+,"ptime": 1
+}

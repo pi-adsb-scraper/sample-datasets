@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781f4e","type":"adsb_icao","flight":"TBA9987 ","r":"B-32E7","t":"A19N","desc":"AIRBUS A-319neo","alt_geom":7275,"gs":246.8,"track":52.57,"baro_rate":-1216,"squawk":"4022","category":"A3","rr_lat":38.5,"rr_lon":115.4,"lastPosition":{"lat":38.298340,"lon":114.290354,"nic":8,"rc":186,"seen_pos":65.647},"version":2,"nac_v":2,"sil_type":"perhour","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":186,"seen":25.0,"rssi":-16.9}
+]
+,"msg": "No error"
+,"now": 1762242958001
+,"total": 1
+,"ctime": 1762242958001
+,"ptime": 0
+}

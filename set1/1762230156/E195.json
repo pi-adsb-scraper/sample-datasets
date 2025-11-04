@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"44082d","type":"adsb_icao","flight":"AUA720  ","r":"OE-LWQ","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":27950,"alt_geom":28525,"gs":378.5,"ias":253,"tas":384,"mach":0.648,"wd":13,"ws":80,"oat":-42,"tat":-22,"track":280.66,"track_rate":0.00,"roll":-0.18,"mag_heading":287.05,"true_heading":292.66,"baro_rate":-1920,"geom_rate":-1920,"squawk":"1000","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":20000,"nav_altitude_fms":20000,"nav_modes":["autopilot","vnav","tcas"],"lat":47.616440,"lon":18.566002,"nic":8,"rc":186,"seen_pos":0.058,"version":2,"nic_baro":1,"nac_p":11,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":60970,"seen":0.0,"rssi":-16.9},
+{"hex":"300557","type":"adsb_icao","r":"I-ADJQ","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":"ground","gs":16.5,"true_heading":104.06,"lat":48.672592,"lon":21.242101,"nic":8,"rc":186,"seen_pos":1.145,"version":2,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","sda":2,"mlat":[],"tisb":[],"messages":6,"seen":1.1,"rssi":-20.3}
+]
+,"msg": "No error"
+,"now": 1762230230001
+,"total": 2
+,"ctime": 1762230230001
+,"ptime": 0
+}

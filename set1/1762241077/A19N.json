@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"5003c2","type":"adsb_icao","flight":"RUN1    ","r":"T7-1177","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":"ground","gs":0.0,"squawk":"2000","emergency":"none","category":"A3","lat":53.629202,"lon":9.987865,"nic":0,"rc":0,"seen_pos":6.469,"version":2,"nac_p":0,"nac_v":0,"sil":3,"sil_type":"perhour","sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":3545,"seen":2.6,"rssi":-22.4}
+]
+,"msg": "No error"
+,"now": 1762241083002
+,"total": 1
+,"ctime": 1762241083002
+,"ptime": 0
+}

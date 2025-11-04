@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"781d13","type":"adsb_icao","flight":"CSN3708 ","r":"B-328A","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":24600,"alt_geom":25575,"gs":368.6,"ias":261,"tas":382,"mach":0.624,"wd":254,"ws":35,"oat":-26,"tat":-7,"track":183.27,"track_rate":0.00,"roll":0.00,"mag_heading":194.06,"true_heading":188.41,"baro_rate":0,"geom_rate":32,"squawk":"7076","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":24608,"lat":31.301239,"lon":117.029760,"nic":8,"rc":186,"seen_pos":0.686,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1281,"seen":0.3,"rssi":-21.5},
+{"hex":"781e1e","type":"adsb_icao","r":"B-32AU","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":25600,"gs":390.0,"track":227.20,"baro_rate":24,"squawk":"7030","category":"A3","lat":24.416656,"lon":117.673241,"nic":0,"rc":0,"seen_pos":5.256,"version":2,"nic_baro":1,"mlat":[],"tisb":[],"messages":329,"seen":5.3,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762180749001
+,"total": 2
+,"ctime": 1762180749001
+,"ptime": 0
+}

@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"5003c2","type":"adsb_icao","flight":"RUN1    ","r":"T7-1177","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":"ground","gs":0.0,"true_heading":120.94,"squawk":"2000","emergency":"none","category":"A3","lat":53.623756,"lon":9.989016,"nic":0,"rc":0,"seen_pos":1.475,"version":2,"nac_p":0,"nac_v":0,"sil":3,"sil_type":"perhour","sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":4172,"seen":0.2,"rssi":-21.7},
+{"hex":"782202","type":"adsb_icao","flight":"CSN3463 ","r":"B-32KX","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":25800,"gs":502.0,"track":73.40,"baro_rate":30,"squawk":"2375","lat":30.664215,"lon":104.712097,"nic":0,"rc":0,"seen_pos":44.504,"mlat":[],"tisb":[],"messages":21,"seen":44.5,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762241538002
+,"total": 2
+,"ctime": 1762241538002
+,"ptime": 0
+}

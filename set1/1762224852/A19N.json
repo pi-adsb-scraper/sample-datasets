@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"782280","type":"adsb_icao","flight":"CHB6219 ","r":"B-32MF","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":22600,"alt_geom":23400,"gs":435.1,"ias":278,"tas":392,"mach":0.640,"oat":-23,"tat":-3,"track":88.81,"track_rate":0.00,"roll":0.18,"mag_heading":96.86,"true_heading":90.69,"baro_rate":64,"geom_rate":64,"squawk":"2125","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":22592,"lat":31.612740,"lon":119.114099,"nic":8,"rc":186,"seen_pos":23.024,"version":0,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2102,"seen":11.1,"rssi":-29.8}
+]
+,"msg": "No error"
+,"now": 1762224858001
+,"total": 1
+,"ctime": 1762224858001
+,"ptime": 0
+}

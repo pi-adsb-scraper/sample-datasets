@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781dfa","type":"adsb_icao","flight":"TBA9995 ","r":"B-32AJ","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":35125,"alt_geom":35600,"gs":475.0,"ias":258,"tas":442,"mach":0.768,"wd":281,"ws":42,"oat":-55,"tat":-29,"track":64.30,"track_rate":0.00,"roll":0.00,"mag_heading":67.32,"true_heading":61.02,"baro_rate":0,"geom_rate":-32,"squawk":"4035","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":35104,"lat":38.083408,"lon":113.828211,"nic":8,"rc":186,"seen_pos":2.107,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":562,"seen":1.1,"rssi":-18.0}
+]
+,"msg": "No error"
+,"now": 1762248704002
+,"total": 1
+,"ctime": 1762248704002
+,"ptime": 0
+}

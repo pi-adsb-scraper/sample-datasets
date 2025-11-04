@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781e1e","type":"adsb_icao","flight":"CSN3995 ","r":"B-32AU","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":20700,"alt_geom":21500,"gs":420.6,"ias":295,"tas":404,"mach":0.648,"wd":268,"ws":24,"oat":-17,"tat":4,"track":42.11,"track_rate":-0.06,"roll":0.35,"mag_heading":45.35,"true_heading":39.66,"baro_rate":-64,"geom_rate":-96,"squawk":"4214","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":20704,"lat":31.075527,"lon":117.410834,"nic":8,"rc":186,"seen_pos":4.117,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":989,"seen":2.1,"rssi":-28.2}
+]
+,"msg": "No error"
+,"now": 1762262436001
+,"total": 1
+,"ctime": 1762262436001
+,"ptime": 1
+}

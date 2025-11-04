@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781dfb","type":"adsb_icao","flight":"TBA9923 ","r":"B-32AK","t":"A19N","desc":"AIRBUS A-319neo","alt_baro":20700,"gs":447.0,"track":141.20,"baro_rate":30,"squawk":"1520","lat":30.324314,"lon":104.266518,"nic":0,"rc":0,"seen_pos":18.720,"mlat":[],"tisb":[],"messages":10,"seen":18.7,"rssi":-49.5}
+]
+,"msg": "No error"
+,"now": 1762226298002
+,"total": 1
+,"ctime": 1762226298002
+,"ptime": 0
+}

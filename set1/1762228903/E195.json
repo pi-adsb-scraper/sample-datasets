@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"44082d","type":"adsb_icao","flight":"AUA720  ","r":"OE-LWQ","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":36000,"alt_geom":36475,"gs":409.1,"ias":247,"tas":434,"mach":0.748,"wd":324,"ws":39,"oat":-51,"tat":-27,"track":271.40,"track_rate":0.03,"roll":-0.18,"mag_heading":269.30,"true_heading":275.49,"baro_rate":-64,"geom_rate":-64,"squawk":"1000","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_altitude_fms":36000,"nav_modes":["autopilot","vnav","tcas"],"lat":47.328357,"lon":22.058012,"nic":8,"rc":186,"seen_pos":0.020,"version":2,"nic_baro":1,"nac_p":11,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":14656,"seen":0.0,"rssi":-25.9}
+]
+,"msg": "No error"
+,"now": 1762228971002
+,"total": 1
+,"ctime": 1762228971002
+,"ptime": 1
+}

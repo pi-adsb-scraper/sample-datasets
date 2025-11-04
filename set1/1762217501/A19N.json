@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"781e1e","type":"mode_s","flight":"CSN6067 ","r":"B-32AU","t":"A19N","desc":"AIRBUS A-319neo","gs":393.3,"track":214.54,"baro_rate":0,"nav_qnh":1012.8,"nav_altitude_mcp":19712,"nav_heading":220.08,"version":2,"nic_baro":1,"nac_p":8,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5,"seen":0.6,"rssi":-21.7}
+]
+,"msg": "No error"
+,"now": 1762217507001
+,"total": 1
+,"ctime": 1762217507001
+,"ptime": 0
+}

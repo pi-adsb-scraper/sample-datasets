@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"e48daf","type":"adsb_icao","flight":"AZU4387 ","r":"PR-AXO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":17100,"alt_geom":17975,"gs":284.6,"track":273.63,"baro_rate":832,"squawk":"3523","category":"A3","lat":-22.948857,"lon":-47.663320,"nic":8,"rc":186,"seen_pos":0.048,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":926,"seen":0.0,"rssi":-28.2},
+{"hex":"510080","type":"mode_s","r":"EW-400PO","t":"E195","desc":"EMBRAER ERJ-190-200","tas":454,"mag_heading":258.75,"true_heading":254.84,"baro_rate":0,"nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_modes":["autopilot","vnav","tcas"],"rr_lat":56.6,"rr_lon":37.4,"version":0,"nic_baro":0,"nac_p":0,"nac_v":0,"sil":0,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":6,"seen":30.2,"rssi":-25.3}
+]
+,"msg": "No error"
+,"now": 1762219591002
+,"total": 2
+,"ctime": 1762219591002
+,"ptime": 0
+}

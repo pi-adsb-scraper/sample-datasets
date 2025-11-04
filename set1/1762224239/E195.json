@@ -1,0 +1,11 @@
+{"ac":[
+{"hex":"e48e88","type":"adsb_icao","r":"PR-AXT","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":29075,"gs":360.0,"track":271.80,"baro_rate":-25,"squawk":"3606","lat":-25.300369,"lon":-53.121387,"nic":0,"rc":0,"seen_pos":5.700,"mlat":[],"tisb":[],"messages":341,"seen":5.7,"rssi":-49.5},
+{"hex":"e49050","type":"adsb_icao","r":"PR-AUE","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":28000,"gs":441.0,"track":173.70,"baro_rate":-21,"squawk":"3633","lat":-21.130154,"lon":-44.032391,"nic":8,"rc":185,"seen_pos":6.700,"nic_baro":1,"mlat":[],"tisb":[],"messages":137,"seen":6.7,"rssi":-49.5},
+{"hex":"e48bf7","type":"mode_s","r":"PR-AXG","t":"E195","desc":"EMBRAER ERJ-190-200","rr_lat":-22.5,"rr_lon":-45.2,"mlat":[],"tisb":[],"messages":547,"seen":5.4,"rssi":-27.7}
+]
+,"msg": "No error"
+,"now": 1762224306002
+,"total": 3
+,"ctime": 1762224306002
+,"ptime": 0
+}

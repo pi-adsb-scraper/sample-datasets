@@ -1,0 +1,10 @@
+{"ac":[
+{"hex":"e48daf","type":"adsb_icao","flight":"AZU4387 ","r":"PR-AXO","t":"E195","desc":"EMBRAER ERJ-190-200","alt_baro":18200,"alt_geom":19150,"gs":345.1,"track":239.72,"baro_rate":1984,"squawk":"3523","category":"A3","lat":-22.990474,"lon":-47.770742,"nic":8,"rc":186,"seen_pos":0.000,"version":1,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":2,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1202,"seen":0.0,"rssi":-27.1},
+{"hex":"510080","type":"mode_s","r":"EW-400PO","t":"E195","desc":"EMBRAER ERJ-190-200","squawk":"0616","rr_lat":56.6,"rr_lon":37.4,"sil_type":"unknown","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":11,"seen":2.2,"rssi":-25.2}
+]
+,"msg": "No error"
+,"now": 1762219664002
+,"total": 2
+,"ctime": 1762219664002
+,"ptime": 0
+}

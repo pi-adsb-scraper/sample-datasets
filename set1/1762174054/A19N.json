@@ -1,0 +1,9 @@
+{"ac":[
+{"hex":"782280","type":"mode_s","r":"B-32MF","t":"A19N","desc":"AIRBUS A-319neo","gs":538.2,"ias":260,"tas":436,"mach":0.736,"oat":-42,"tat":-17,"track":91.70,"track_rate":-0.22,"roll":-5.62,"mag_heading":98.26,"true_heading":92.26,"baro_rate":-64,"geom_rate":-96,"category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":33088,"lastPosition":{"lat":31.656220,"lon":118.275677,"nic":8,"rc":186,"seen_pos":381.729},"version":0,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2226,"seen":18.6,"rssi":-31.8}
+]
+,"msg": "No error"
+,"now": 1762174060002
+,"total": 1
+,"ctime": 1762174060002
+,"ptime": 0
+}
